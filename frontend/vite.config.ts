@@ -7,7 +7,7 @@ export default defineConfig({
     port: 5173,
     proxy: {
       '/api': {
-        target: 'https://placement-screener.onrender.com',
+        target: 'http://localhost:8000',
         changeOrigin: true,
       },
     },

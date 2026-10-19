@@ -7,6 +7,10 @@
 > [!NOTE]
 > All candidate data in this application is **synthetic and fictional**, created for academic demonstration purposes only. This does not represent any real institution's placement policy.
 
+## 🌐 Live Demo
+
+🔗 **Demo Application:** [https://frontend-bice-theta-4snkv1jq6x.vercel.app](https://frontend-bice-theta-4snkv1jq6x.vercel.app)
+
 ## Quick Start
 
 ### Prerequisites
