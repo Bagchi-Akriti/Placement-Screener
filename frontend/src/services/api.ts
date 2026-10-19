@@ -1,6 +1,6 @@
 import type { Candidate, AssessmentResult, PolicyConfig, DashboardStats } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = 'https://placement-screener.onrender.com/api';
 
 async function fetchJSON<T>(url: string, options?: RequestInit): Promise<T> {
   const response = await fetch(`${API_BASE}${url}`, {
